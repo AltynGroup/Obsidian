@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Tokenomics/ALTYN-TON.md",
+                "file": "02-Tokenomics/ALTYN-Solana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALTYN-TON"
+              "title": "ALTYN-Solana"
             }
           }
         ]
@@ -187,14 +187,17 @@
   },
   "active": "0eb5ab7d9ef23902",
   "lastOpenFiles": [
-    "02-Tokenomics/ALTYN-Solana.md",
+    "README.md",
+    "Current-Tasks.md",
+    "Roadmap.md",
+    "Decisions.md",
+    "AGENTS.md",
     "02-Tokenomics/ALTYN-TON.md",
+    "02-Tokenomics/ALTYN-Solana.md",
     "Solana.md",
     "00-Overview/Altyn.md",
     "00-Overview/Vision.md",
-    "AGENTS.md",
     "Cloudflare.md",
-    "Без названия.canvas",
-    "README.md"
+    "Без названия.canvas"
   ]
 }

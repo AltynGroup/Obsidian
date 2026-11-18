@@ -9,6 +9,8 @@ tags:
   - jetton
 ---
 
+![Логотип ALTYN (TON)](https://raw.githubusercontent.com/AltynGroup/AltynToken/refs/heads/main/TON/logoaltyn.png)
+
 # ALTYN на TON — техническая страница
 
 Дата проверки: 18 ноября 2026.

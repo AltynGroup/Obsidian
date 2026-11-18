@@ -9,6 +9,8 @@ tags:
   - spl
 ---
 
+![Логотип ALTYN (Solana)](https://raw.githubusercontent.com/AltynGroup/AltynToken/refs/heads/main/Solana/logoaltyntoken.png)
+
 # ALTYN на Solana — техническая страница
 
 Дата проверки: 18 ноября 2026.
